@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkaller76
+- 👋 Hi, I’m Markus @mkaller76
 - 👀 I’m interested in molecular biology, genetics, conservation, photography. 
 - 🌱 I’m currently learning Python, Machine & Deep Learning.
 - 💞️ I’m looking to collaborate on a 'tech for sustainabilty' project
