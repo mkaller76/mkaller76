@@ -1,6 +1,6 @@
 Hi, I’m Markus - a molecular biologist and data analyst with expertise in the molecular mechanisms of cancer development and progression. 
 Beyond the lab, I’m a passionate conservationist volunteering with BUND Naturschutz in Munich, focusing on amphibian conservation. 
-I’m excited to pivot towards tech-driven solutions for sustainability challenges.
+I’m excited to pivot towards tech-driven solutions for cancer diagnostics.
 
 <!---
 mkaller76/mkaller76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
